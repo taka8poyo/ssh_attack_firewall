@@ -1,4 +1,3 @@
-# furusato 
+# ssh_attack_firewall
 
-- purpose
-  - to automate firewall settings 
+ssh攻撃をハニーポットで検知して、一定周期をもつボット攻撃のようなものにたいしては周期的ブロックを行なった。
